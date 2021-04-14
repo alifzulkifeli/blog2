@@ -13,7 +13,7 @@ export default function Navbar() {
       <ul>
         <li>
           <Link href="/">
-            <button className="btn-logo">ALIFF'S BLOG</button>
+            <button className="btn-logo">BLOG</button>
           </Link>
         </li>
 
